@@ -5,6 +5,10 @@ body {
     margin: 10%;
 }
 
+div {
+    padding-bottom: 15%;
+}
+
 a:link {
     color: rgb(119, 200, 25);
 }
