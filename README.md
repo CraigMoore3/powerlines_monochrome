@@ -1,3 +1,0 @@
-# powerlines_monochrome
-
-text

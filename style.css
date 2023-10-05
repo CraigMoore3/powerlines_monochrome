@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10%;
+}
+
+a:link {
+    color: rgb(119, 200, 25);
+}
+
+a:visited {
+    color: yellow;
+}
+
+a:hover {
+    color:red;
+}
+
+a:active {
+    color: white;
+}
